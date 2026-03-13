@@ -26,7 +26,7 @@ You've successfully completed all four steps of the GitHub workflow. Here's a re
 
 You now understand:
 
-- 🌿 **Repositories** — project containers with full version history
+- 📁 **Repositories** — project containers with full version history
 - 🌿 **Branches** — isolated workspaces for making changes safely
 - 💾 **Commits** — snapshots of changes with messages
 - 🔀 **Pull Requests** — structured proposals for merging changes
