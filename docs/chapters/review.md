@@ -56,7 +56,7 @@ Here are some great next steps to deepen your GitHub knowledge:
 
 | Resource | Description |
 |----------|-------------|
-| 🎓 [GitHub Skills](https://learn.github.com/skills) | Hands-on exercises for every GitHub topic |
+| 🎓 [GitHub Skills](https://skills.github.com/) | Hands-on exercises for every GitHub topic |
 | 📖 [GitHub Docs: Getting Started](https://docs.github.com/en/get-started) | Official documentation for beginners |
 | 💬 [GitHub Discussions](https://github.com/orgs/skills/discussions/categories/introduction-to-github) | Share your experience and ask questions |
 | 🔍 [GitHub Explore](https://github.com/explore) | Discover interesting open-source projects |

@@ -93,7 +93,7 @@ If you don't get feedback after a minute or two, check the following:
 
 - Make sure the previous steps (branch creation, commit, and PR) were all completed successfully.
 - If the merge button is disabled, wait for any running workflows to finish.
-- Check the [Actions tab](../../actions) to see if any workflow failed.
+- Check the [Actions tab]({{ site.github.repository_url }}/actions) to see if any workflow failed.
 
 </details>
 

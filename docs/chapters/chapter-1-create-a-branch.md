@@ -91,7 +91,7 @@ After this step, you have:
 If you don't get feedback after a minute or two, check the following:
 
 - Make sure the branch is named exactly `my-first-branch` (all lowercase, hyphens, no spaces).
-- Navigate to the [Actions tab](../../actions) to check if a workflow is running or has failed.
+- Navigate to the [Actions tab]({{ site.github.repository_url }}/actions) to check if a workflow is running or has failed.
 
 </details>
 

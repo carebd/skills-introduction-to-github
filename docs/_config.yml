@@ -54,7 +54,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 # Aux links
 aux_links:
   "View on GitHub":
-    - "https://github.com/skills/introduction-to-github"
+    - "https://github.com/carebd/skills-introduction-to-github"
 aux_links_new_tab: true
 
 plugins:
