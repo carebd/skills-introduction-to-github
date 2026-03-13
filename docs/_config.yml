@@ -19,7 +19,7 @@ search:
 nav_sort: order
 
 # Footer
-footer_content: "Copyright &copy; 2025 GitHub &bull; <a href=\"https://www.contributor-covenant.org/version/2/1/code_of_conduct/\">Code of Conduct</a> &bull; <a href=\"https://gh.io/mit\">MIT License</a>"
+footer_content: "Copyright &copy; 2025 GitHub &bull; <a href=\"https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md\">Code of Conduct</a> &bull; <a href=\"https://gh.io/mit\">MIT License</a>"
 
 # Callouts
 callouts_level: quiet
@@ -54,7 +54,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 # Aux links
 aux_links:
   "View on GitHub":
-    - "https://github.com/skills/introduction-to-github"
+    - "https://github.com/carebd/skills-introduction-to-github"
 aux_links_new_tab: true
 
 plugins:

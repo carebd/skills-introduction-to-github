@@ -48,7 +48,7 @@ After your commit, GitHub may show a banner at the top of your repository sugges
 
 ### Option A: Quick path (recommended)
 
-After pushing your commit, look for the **"Compare & pull request"** button that appears in a yellow banner near the top of your repository page. Click it and skip to **Step 5** below.
+After creating your commit, look for the **"Compare & pull request"** button that appears in a yellow banner near the top of your repository page. Click it and skip to **Step 5** below.
 
 ### Option B: Manual path
 
@@ -114,7 +114,7 @@ After this step, you have:
 If you don't get feedback after a minute or two, check the following:
 
 - Make sure the pull request title is exactly `Add my first file`.
-- Ensure the pull request has a description (it can't be blank).
+- Ensure the pull request has a description for this exercise (the workflow checks for one).
 - Confirm the base branch is `main` and the compare branch is `my-first-branch`.
 
 </details>

@@ -11,7 +11,7 @@ Get started using GitHub in less than an hour.
 {: .fs-6 .fw-300 }
 
 [Get Started →](introduction/what-is-github){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/skills/introduction-to-github){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub]({{ site.github.repository_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

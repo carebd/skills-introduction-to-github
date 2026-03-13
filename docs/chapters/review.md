@@ -26,7 +26,7 @@ You've successfully completed all four steps of the GitHub workflow. Here's a re
 
 You now understand:
 
-- 🌿 **Repositories** — project containers with full version history
+- 📁 **Repositories** — project containers with full version history
 - 🌿 **Branches** — isolated workspaces for making changes safely
 - 💾 **Commits** — snapshots of changes with messages
 - 🔀 **Pull Requests** — structured proposals for merging changes
@@ -46,7 +46,7 @@ Want to show off your skills on your GitHub profile? Create a public repository 
 3. Add some content — introduce yourself, list your skills, link to your projects
 4. If you used a branch, open and merge a pull request
 
-📖 Full guide: [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+📖 Full guide: [Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
 ---
 
@@ -56,7 +56,7 @@ Here are some great next steps to deepen your GitHub knowledge:
 
 | Resource | Description |
 |----------|-------------|
-| 🎓 [GitHub Skills](https://learn.github.com/skills) | Hands-on exercises for every GitHub topic |
+| 🎓 [GitHub Skills](https://skills.github.com/) | Hands-on exercises for every GitHub topic |
 | 📖 [GitHub Docs: Getting Started](https://docs.github.com/en/get-started) | Official documentation for beginners |
 | 💬 [GitHub Discussions](https://github.com/orgs/skills/discussions/categories/introduction-to-github) | Share your experience and ask questions |
 | 🔍 [GitHub Explore](https://github.com/explore) | Discover interesting open-source projects |

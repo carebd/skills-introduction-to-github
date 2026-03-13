@@ -40,7 +40,7 @@ main ─────────────────────────
 
 ## What is a Profile README?
 
-A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is an "About me" section on your GitHub profile. GitHub shows it at the top of your profile page — it's a great way to share information about yourself with the community.
+A [profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is an "About me" section on your GitHub profile. GitHub shows it at the top of your profile page — it's a great way to share information about yourself with the community.
 
 In this exercise, you'll create a short Markdown file that you can later use as your profile README.
 
@@ -91,7 +91,7 @@ After this step, you have:
 If you don't get feedback after a minute or two, check the following:
 
 - Make sure the branch is named exactly `my-first-branch` (all lowercase, hyphens, no spaces).
-- Navigate to the [Actions tab](../../actions) to check if a workflow is running or has failed.
+- Navigate to the [Actions tab]({{ site.github.repository_url }}/actions) to check if a workflow is running or has failed.
 
 </details>
 

@@ -18,7 +18,7 @@ nav_order: 1
 
 ## Overview
 
-**GitHub** is a collaboration platform that uses [Git](https://docs.github.com/get-started/quickstart/github-glossary#git) for versioning. It is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software, and it powers millions of projects — from personal experiments to enterprise-grade systems.
+**GitHub** is a collaboration platform that uses [Git](https://docs.github.com/en/get-started/quickstart/github-glossary#git) for versioning. It is a popular place to share and contribute to [open-source](https://docs.github.com/en/get-started/quickstart/github-glossary#open-source) software, and it powers millions of projects — from personal experiments to enterprise-grade systems.
 
 {: .note }
 > 📺 **Video:** [What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc) — a 3-minute overview from GitHub.
