@@ -1,0 +1,68 @@
+/* GitBook-like custom styling for just-the-docs */
+
+/* Typography enhancements */
+.main-content {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+/* Code blocks */
+.main-content pre.highlight {
+  border-radius: 6px;
+  border: 1px solid #e1e4e8;
+}
+
+/* Callout/note blocks - make them more GitBook-like */
+.note, .tip, .warning, .important {
+  border-radius: 6px;
+  margin: 1.5em 0;
+}
+
+/* Navigation sidebar enhancements */
+.side-bar {
+  border-right: 1px solid #eeeeee;
+}
+
+/* Table styling */
+.main-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+
+.main-content table th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+.main-content table th,
+.main-content table td {
+  padding: 0.6em 1em;
+  border: 1px solid #e1e4e8;
+}
+
+.main-content table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Step number badges */
+.main-content strong {
+  color: #24292e;
+}
+
+/* Button group spacing */
+.btn + .btn {
+  margin-left: 0.5em;
+}
+
+/* Separator line */
+.main-content hr {
+  margin: 2em 0;
+  border-color: #eeeeee;
+}
+
+/* Page navigation buttons at bottom */
+.main-content p > .btn {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}

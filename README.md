@@ -2,6 +2,10 @@
 
 _Get started using GitHub in less than an hour._
 
+## 📖 Guidebook
+
+A complete GitBook-style guide is available in the [`docs/`](docs/) folder. It covers all core GitHub concepts — repositories, branches, commits, and pull requests — in a structured, readable format. You can [enable GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on this repository (pointing to the `docs/` folder) to publish the guide as a website.
+
 ## Welcome
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
