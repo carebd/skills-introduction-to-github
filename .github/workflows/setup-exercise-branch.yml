@@ -1,0 +1,46 @@
+name: Setup exercise branch
+
+# Creates 'my-first-branch' with PROFILE.md to complete the Introduction to GitHub exercise.
+# Triggered automatically when this branch is pushed (or manually via workflow_dispatch).
+
+on:
+  push:
+    branches:
+      - "copilot/add-sub-issue-to-skill-intro-github-2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  create-my-first-branch:
+    name: Create my-first-branch with PROFILE.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+      - name: Create my-first-branch and add PROFILE.md
+        run: |
+          # Check if the branch already exists on the remote
+          if git ls-remote --exit-code --heads origin my-first-branch; then
+            echo "Branch 'my-first-branch' already exists. Skipping creation."
+          else
+            git checkout -b my-first-branch
+            echo "Welcome to my GitHub profile!" > PROFILE.md
+            git add PROFILE.md
+            git commit -m "Add PROFILE.md"
+            git push origin my-first-branch
+            echo "Branch 'my-first-branch' created and pushed successfully."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
