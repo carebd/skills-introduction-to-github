@@ -2,7 +2,9 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey carebd!
+copilot/create-guidebook-for-githuA complete GitBook-style guide is available in the [`docs/`](docs/) folder. It covers all core GitHub concepts — repositories, branches, commits, and pull requests — in a structured, readable format. You can [enable GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on this repository (pointing to the `docs/` folder) to publish the guide as a website.
+
+
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
